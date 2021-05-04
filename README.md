@@ -1,4 +1,4 @@
-Copyright (C) 2018 The LineageOS Project
+Copyright (C) 2021 ShapeShiftOS
 
 Device configuration for Xiaomi Pocophone F1
 =========================================
